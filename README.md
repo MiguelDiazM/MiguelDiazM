@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MiguelDiazM
-- 👀 I’m interested in Java projects and Backend Dev
-- 🌱 I’m currently studing DAW(Dev Applications Web)
+- 👀 I’m interested in Backend Develop with PHP or Java
+- 🌱 I’m I just finished my studies in DAW
 - 📫 How to reach me mdm947531@gmail.com
