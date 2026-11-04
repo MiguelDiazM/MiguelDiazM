@@ -2,13 +2,13 @@
 
 ### Backend Developer | PHP · Java · MySQL
 
-Desarrollador web con formación en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMR).
+Soy desarrollador web con formación en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMR).
 
-Mi principal interés es el desarrollo backend, la construcción de aplicaciones web y el diseño de soluciones fiables y mantenibles. También tengo experiencia en automatización de pruebas y aseguramiento de la calidad del software.
+Mi principal interés es el desarrollo backend, especialmente la construcción de aplicaciones, el trabajo con bases de datos y la creación de soluciones mantenibles y fiables.
 
-Me gusta entender cómo funcionan las aplicaciones por dentro, trabajar con bases de datos y colaborar en equipos de desarrollo.
+También cuento con experiencia en automatización de pruebas y aseguramiento de la calidad del software, trabajando con Cypress y PHPUnit.
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
 **Backend**
 - PHP
@@ -19,7 +19,7 @@ Me gusta entender cómo funcionan las aplicaciones por dentro, trabajar con base
 
 **Testing & QA**
 - PHPUnit
-- Cypress (E2E)
+- Cypress
 
 **Frontend**
 - JavaScript
@@ -36,23 +36,16 @@ Me gusta entender cómo funcionan las aplicaciones por dentro, trabajar con base
 ## 🚀 Proyectos destacados
 
 ### GesCofrade
-Aplicación web de gestión integral para hermandades y cofradías, desarrollada en equipo.
+Aplicación web de gestión integral de hermandades y cofradías, desarrollada en equipo.
 
-**Mi contribución principal:**
-- Desarrollo backend con PHP.
-- Diseño y desarrollo de la base de datos MySQL.
-- Participación en la estructura del proyecto.
-- Organización de Pull Requests.
-- Gestión y seguimiento de tareas mediante Jira.
+Mi participación se ha centrado principalmente en el backend, el diseño y desarrollo de la base de datos, la estructura del proyecto y la organización del trabajo mediante Git, Pull Requests y Jira.
 
-Tecnologías: PHP · MySQL · JavaScript · Cypress
-
-[Ver repositorio](https://github.com/MiguelDiazM/GesCofrade)
+[Ver proyecto](https://github.com/MiguelDiazM/GesCofrade)
 
 ### Prueba técnica — Lleego
-Repositorio de una prueba técnica realizada durante mi etapa de formación y desarrollo profesional.
+Repositorio correspondiente a una prueba técnica realizada durante mi formación y experiencia en QA y desarrollo.
 
-[Ver repositorio](https://github.com/MiguelDiazM/prueba-tecnica-lleego)
+[Ver proyecto](https://github.com/MiguelDiazM/prueba-tecnica-lleego)
 
 ## 💼 Experiencia
 
@@ -61,7 +54,7 @@ Marzo 2025 – Junio 2025
 
 - Automatización de pruebas E2E con Cypress.
 - Pruebas unitarias con PHPUnit.
-- Liderazgo de sprint y coordinación del equipo.
+- Coordinación de equipo como líder de sprint.
 - Gestión de versiones mediante Git.
 
 **Técnico informático y soporte TI — InforPuente**  
@@ -78,13 +71,7 @@ Marzo 2023 – Junio 2023
 
 ## 📫 Contacto
 
-- Portfolio: https://portfolio-gilt-phi-66.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/miguel-diaz-234b6218a/
-- GitHub: https://github.com/MiguelDiazM/
-- Mail: mdm947531@gmail.com
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/MiguelDiazM/MiguelDiazM/snake-output/snake.svg" alt="Snake animation" />
-
-###
+- 🌐 [Portfolio](https://portfolio-gilt-phi-66.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-diaz-234b6218a/)
+- 💻 [GitHub](https://github.com/MiguelDiazM/)
+- ✉️ [Mail](mailto:mdm947531@gmail.com)
