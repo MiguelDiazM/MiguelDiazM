@@ -1,67 +1,86 @@
-<br clear="both">
+# ¡Hola! Soy Miguel Díaz 👋
 
-<h2 data-importer="text" align="center">Hi 👋! My name is Miguel and I'm a backend developer</h2>
+### Backend Developer | PHP · Java · MySQL
 
-###
+Desarrollador web con formación en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMR).
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MiguelDiazM/MiguelDiazM/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MiguelDiazM/MiguelDiazM/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Mi principal interés es el desarrollo backend, la construcción de aplicaciones web y el diseño de soluciones fiables y mantenibles. También tengo experiencia en automatización de pruebas y aseguramiento de la calidad del software.
 
-###
+Me gusta entender cómo funcionan las aplicaciones por dentro, trabajar con bases de datos y colaborar en equipos de desarrollo.
 
+## 🛠️ Tecnologías y herramientas
 
+**Backend**
+- PHP
+- Java
 
-###
+**Bases de datos**
+- MySQL
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+**Testing & QA**
+- PHPUnit
+- Cypress (E2E)
 
-###
-<div data-importer="socials" align="left">
-  <a href="mailto:mdm947531@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/miguel-diaz-234b6218a" target="_blank"> 
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-  
-</div>
+**Frontend**
+- JavaScript
+- HTML5
+- CSS3
+- Sass / SCSS
+- Bootstrap
 
+**Herramientas y metodologías**
+- Git
+- Docker
+- Scrum / Agile
 
-###
+## 🚀 Proyectos destacados
+
+### GesCofrade
+Aplicación web de gestión integral para hermandades y cofradías, desarrollada en equipo.
+
+**Mi contribución principal:**
+- Desarrollo backend con PHP.
+- Diseño y desarrollo de la base de datos MySQL.
+- Participación en la estructura del proyecto.
+- Organización de Pull Requests.
+- Gestión y seguimiento de tareas mediante Jira.
+
+Tecnologías: PHP · MySQL · JavaScript · Cypress
+
+[Ver repositorio](https://github.com/MiguelDiazM/GesCofrade)
+
+### Prueba técnica — Lleego
+Repositorio de una prueba técnica realizada durante mi etapa de formación y desarrollo profesional.
+
+[Ver repositorio](https://github.com/MiguelDiazM/prueba-tecnica-lleego)
+
+## 💼 Experiencia
+
+**QA Tester & Developer — Lleego (Juniper Company)**  
+Marzo 2025 – Junio 2025
+
+- Automatización de pruebas E2E con Cypress.
+- Pruebas unitarias con PHPUnit.
+- Liderazgo de sprint y coordinación del equipo.
+- Gestión de versiones mediante Git.
+
+**Técnico informático y soporte TI — InforPuente**  
+Marzo 2023 – Junio 2023
+
+- Diagnóstico y mantenimiento de hardware y software.
+- Soporte técnico a clientes.
+- Resolución de incidencias en Windows Server y redes.
+
+## 🎓 Formación
+
+- Técnico Superior en Desarrollo de Aplicaciones Web (DAW) — 2023–2025.
+- Técnico en Sistemas Microinformáticos y Redes (SMR) — 2021–2023.
+
+## 📫 Contacto
+
+- Portfolio: https://portfolio-gilt-phi-66.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/miguel-diaz-234b6218a/
+- GitHub: https://github.com/MiguelDiazM/
 
 <br clear="both">
 
