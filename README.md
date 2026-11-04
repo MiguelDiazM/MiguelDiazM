@@ -81,6 +81,7 @@ Marzo 2023 – Junio 2023
 - Portfolio: https://portfolio-gilt-phi-66.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/miguel-diaz-234b6218a/
 - GitHub: https://github.com/MiguelDiazM/
+- Mail: mdm947531@gmail.com
 
 <br clear="both">
 
